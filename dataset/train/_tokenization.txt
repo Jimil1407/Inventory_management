@@ -1,0 +1,4 @@
+An example picture from the annotated pipes dataset depicting a Bevel
+An example picture from the annotated pipes dataset depicting Bevels
+An example picture from the annotated pipes dataset depicting a clean
+An example picture from the annotated pipes dataset depicting no None-Bevels
