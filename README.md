@@ -1,4 +1,4 @@
-# 📦 Inventory Management with Machine Vision
+# 📦 Inventory Management with Machine Vision.
 
 Welcome to the **Inventory Management** project! This project leverages a zero-shot model and machine vision to streamline and enhance inventory management processes. Implemented in a Jupyter Notebook, it provides a powerful tool for automatically managing and tracking inventory items with minimal human intervention.
 
